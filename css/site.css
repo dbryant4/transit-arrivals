@@ -1,0 +1,28 @@
+.circle {
+  border-radius: 50%;
+  width: 20px;
+  height: 20px; 
+  /* width and height can be anything, as long as they're equal */
+}
+
+.OR {
+  background: orange;
+}
+.BL {
+  background: blue;
+  color: #E6E3E4;
+}
+.YL {
+  background: yellow;
+}
+.GR {
+  background: green;
+  color: #E6E3E4;
+}
+.RD {
+  background: red;
+}
+
+.small {
+  font-size: .5em;
+}
